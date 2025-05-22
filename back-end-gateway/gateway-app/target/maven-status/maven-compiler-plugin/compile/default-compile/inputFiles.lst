@@ -1,0 +1,11 @@
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\decorator\RequestDecoratorFactory.java
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\decorator\PostRequestDecorator.java
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\filter\RequestTranslationFilter.java
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\GatewayAndFiltersApplication.java
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\config\MapperConfig.java
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\model\GatewayRequest.java
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\utils\RequestBodyExtractor.java
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\decorator\DeleteRequestDecorator.java
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\decorator\GetRequestDecorator.java
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\decorator\PutRequestDecorator.java
+C:\Users\CRISTOPHER\Desktop\SAFE_PEOPLE\src-backend\back-end-gateway\gateway-app\src\main\java\com\unir\gateway\decorator\PatchRequestDecorator.java
